@@ -1,0 +1,83 @@
+@media (max-width: 576px) {
+    .card-img-overlay h5{
+        font-size: 80px;
+    }
+    .under_line{
+        width: 300px;
+    }
+    .entire_cls .my_group {
+	width: 90%;
+        margin: 0 auto;
+}
+}
+/*
+@media (max-width: 768px) {
+    .over_lay:hover .shadow_cls {
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(21, 164, 250, 0.9);
+    height: 100%;
+    width: 92.5%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 360px;
+
+}
+    .over_lay {
+    width: 345px;
+        margin: 0 auto;
+}
+    .over_lay img{
+	width: 100%;
+    margin: 0 auto;
+}
+}*/
+@media (min-width: 768px) {
+    .over_lay:hover .shadow_cls {
+	position: absolute;
+    top: 0;
+    left: 15px;
+    right: 0;
+    background-color: rgba(21, 164, 250, 0.9);
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 360px;
+
+}
+}
+@media (min-width: 992px) {
+    .over_lay:hover .shadow_cls {
+	position: absolute;
+    top: 0;
+    left: 15px;
+    right: 0;
+    background-color: rgba(21, 164, 250, 0.9);
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 360px;
+
+}
+
+}
+@media (min-width: 1200px) {
+    .over_lay:hover .shadow_cls {
+	position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(21, 164, 250, 0.9);
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 360px;
+
+}
+
+}
